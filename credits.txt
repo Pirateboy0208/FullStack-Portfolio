@@ -1,5 +1,5 @@
 
-CREDITS
+_CREDITS_
 
 Pipeline HTML CSS Template
 http://www.templatemo.com/tm-498-stimulus
